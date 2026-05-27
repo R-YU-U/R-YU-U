@@ -4,7 +4,7 @@
 <h3 align="left">Developer from Colombo, Sri Lanka 🇱🇰</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YumethW&label=Profile%20views&color=ef233c&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=R-YU-U&label=Profile%20views&color=ef233c&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
